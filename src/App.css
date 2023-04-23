@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  font-size: 20px;
+  margin: 50px;
+  font-weight: lighter;
+  
+  
+}
+h1 {
+  font-size: 1em;
+}
+p {
+  font-size: 10px;
+  margin: 10px 1px;
+}
+.App {
+  align-items: center;
+  gap: 20px;
+
+}
+.contenedor {
+  /* margin: 100px; */
+  gap: 100px;
+  margin-bottom: 20px;
+
+}
